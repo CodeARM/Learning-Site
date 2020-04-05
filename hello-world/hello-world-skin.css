@@ -1,3 +1,14 @@
 p {
 	color: red;
 }
+.nav {
+	background-color: gray;
+	list-style-type: none;
+	text-align: center;
+
+}
+.nav li {
+	display: inline-block;
+	font-size: 20px;
+	padding: 0;
+}
