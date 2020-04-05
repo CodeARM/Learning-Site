@@ -18,4 +18,13 @@ p {
 	padding-right: 20px;
 
 }
+.front-end {
+	background-color: orange;
+}
+.infra {
+	background-color: green;
+}
+.basics {
+	background-color: yellow;
+}
 
