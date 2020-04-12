@@ -1,5 +1,5 @@
 p {
-	color: purple;
+	color: rgb(191, 94, 230);
 }
 .eyesear {
 	color: red;
@@ -28,9 +28,9 @@ p {
 	background-color: yellow;
 }
 .future {
-	background-color: purple;
+	background-color: rgb(191, 94, 230);
 }
 .meta {
-	background-color: brown;
+	background-color: rgb(94, 225, 230);
 }
 
